@@ -1,0 +1,53 @@
+[
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Product_Categories.csv",
+        "p_sink_fol" : "AdventureWorks_Product_Categories",
+        "p_sink_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Calendar.csv",
+        "p_sink_fol" : "AdventureWorks_Calendar",
+        "p_sink_file" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Customers.csv",
+        "p_sink_fol" : "AdventureWorks_Customers",
+        "p_sink_file" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_fol" : "Product_Subcategories",
+        "p_sink_file" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Products.csv",
+        "p_sink_fol" : "AdventureWorks_Products",
+        "p_sink_file" : "AdventureWorks_Products.csv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Returns.csv",
+        "p_sink_fol" : "AdventureWorks_Returns",
+        "p_sink_file":"AdventureWorks_Returns.csv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Sales_2015.csv",
+        "p_sink_fol" : "AdventureWorks_Sales_2015",
+        "p_sink_file" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Sales_2016.csv",
+        "p_sink_fol" : "AdventureWorks_Sales_2016",
+        "p_sink_file" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Sales_2017.csv",
+        "p_sink_fol" : "AdventureWorks_Sales_2017",
+        "p_sink_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "P_rel_url" : "MOHAN2310/Adventure-Work-Azure-Data-Engineering-ProjectData/AdventureWorks_Territories.csv",
+        "p_sink_fol" : "AdventureWorks_Territories",
+        "p_sink_file" : "AdventureWorks_Territories.csv"
+    }
+
+]
